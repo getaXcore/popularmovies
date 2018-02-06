@@ -21,7 +21,7 @@ import retrofit2.Response;
 
 public class SplashScreen extends AppCompatActivity {
     MovieHelper db;
-    final static String api_key = "c88a6e158d5085cd37405b999d634f7f";
+    final static String api_key = "<api_key>";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

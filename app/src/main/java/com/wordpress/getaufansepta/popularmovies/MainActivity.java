@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         getMovieFromDB();
 
         //get movie data from server
-        getMovie("c88a6e158d5085cd37405b999d634f7f");
+        getMovie("<api_key>");
 
     }
 

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="app_name_detail">Movie Detail</string>
+    <string name="app_name_about">About</string>
+    <string name="app_name_default">IAK Taufan</string>
+    <string name="about">This is my final project of IAK Intermediate Class</string>
+    <string name="email">Mail me at getaufan@gmail.com</string>
+    <string name="menu_title_about">about</string>
+</resources>

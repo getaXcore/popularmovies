@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_130dp">130dp</dimen>
+    <dimen name="dimens_5dp">5dp</dimen>
+    <dimen name="dimens_10dp">10dp</dimen>
+    <dimen name="dimens_50dp">50dp</dimen>
+    <dimen name="dimens_100dp">100dp</dimen>
+    <dimen name="dimens_25dp">25dp</dimen>
+    <dimen name="dimens_30dp">30dp</dimen>
+    <dimen name="main_pic_width">342dp</dimen>
+    <dimen name="main_pic_height">513dp</dimen>
+    <dimen name="detail_pic_width">185dp</dimen>
+    <dimen name="detail_pic_height">278dp</dimen>
+</resources>
